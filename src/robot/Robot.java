@@ -43,8 +43,8 @@ class Robot_class{
 	void introduce() {
 		
 		System.out.println("My name is " + this.name);
-		System.out.println("My color is " + this.color);
-		System.out.println("My element is " + this.element);
+		System.out.println("and color is " + this.color);
+		System.out.println("and element is " + this.element);
 	}
 }
 
